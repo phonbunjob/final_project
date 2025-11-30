@@ -44,6 +44,7 @@ export default function Page() {
   return (
     <main className="container">
       <header className="header">
+        <h1 className="title">Phisit 6600570</h1>
         <h1 className="title">Foods Around the World</h1>
         <p className="subtitle">Explore famous dishes from different countries</p>
       </header>
